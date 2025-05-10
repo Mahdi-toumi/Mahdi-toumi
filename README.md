@@ -1,5 +1,6 @@
-👋 Hi, I'm Mahdi TOUMI!  
-🌍 A passionate web and software developer and a computer engineering student at ENICarthage, focusing on creating scalable applications.  
-🌱 Always exploring new technologies like Docker and cloud services.  
-📫 Reach out: [toumi.mahdi.001@gmail.com]  
-🔗 Connect with me on LinkedIn: [www.linkedin.com/in/mahdi-toumi](https://www.linkedin.com/in/mahdi-toumi)
+👋 Hi, I'm Mahdi Toumi!  
+🌍 Computer Engineering student at ENICarthage, passionate about crafting full-stack web apps, mobile solutions, and data-driven projects.  
+🌱 Currently diving into technologies like Spring Boot, Angular, Docker, and Python for scalable, innovative applications.  
+💻 Check out my projects: from "COULISSES" (Android app with MVVM) to "Goal Glory" (JavaFX game with MVC), and data analysis with K-Means and ACP.  
+📫 Reach out: mahdi.toumi@enicar.ucar.tn  
+🔗 Connect with me on LinkedIn: [linkedin.com/in/mahdi-toumi](https://linkedin.com/in/mahdi-toumi)
